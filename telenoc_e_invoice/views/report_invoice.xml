@@ -130,7 +130,7 @@
                             </strong>
                         </div>
                     </div>
-                    <div class="col-auto mw-100 mb-2" t-if="o.ref" name="reference">
+                    <div class="row" t-if="o.ref" name="reference">
                         <div class="col-4">
                             <strong style="white-space:nowrap">Reference:
                             </strong>
